@@ -1,0 +1,766 @@
++
+    ¸™ñj=º  ã                   ó8  € R t ^ RIt^ RIt^ RIt^ RIt^ RIt^ RIt^ RIHt ^ RIH	t	 ^ RI
+HtHtH
+t
+Ht ^ RIHtHt ]	! ]4      P&                  t]R,          tR R lt]! 4       t]P1                  R	R
+4      t]	! ]P4                  P7                  ]P1                  RR4      4      4      tR
+. R. RRRRR^ /t]! RR7      tR. RˆOR. R‰ORRR.R. RŠOR. R‹OR	. RŒOR. ROR. RŽORR.R. ROR. ROR. R‘OR R!R ./
+tR" R# lt R$ R% lt!R& R' lt"R( R) lt#R* R+ lt$R, R- lt%R. R/ lt&0 R’mt'0 R“mt(R0 R1 lt)R2 R3 lt*R4 R5 lt+R”R6 R7 llt,R•R8 R9 llt-R: R; lt.R< R= lt/RR>RR?RR@RRARRBRRC/t0RDRERFRGRHRIRJRKRLRMRNRORPRQRRRSRTRURVRWRXRYRZR[/t1R\ R] lt2R–R^ R_ llt3R—R` Ra llt4Rb Rc lt5Rd Re lt6Rf Rg lt7Rh Ri lt8Rj Rk lt9Rl Rm lt:Rn Ro lt;0 R˜mt<0 R™mt=0 Ršmt>Rp Rq lt?Rr Rs lt@]P1                  Rt]Ru7      Rv 4       tA]P1                  Rw4      Rx 4       tB]P‡                  Ry4      ]! Rz4      3R{ R| ll4       tD]P‡                  R}4      R~ 4       tE]P‡                  R4      R€ R l4       tFR‚tG]HRƒ8X  d>   ^ RIItI]J! ]P–                  P1                  R„R…4      4      tL]IPš                  ! ]R†]LR‡7       R# R# )›a6  
+D4U Tracker | SAM - issue chatbot (export-based, no auth required).
+
+How it works:
+  1. In ServiceNow, open your incident list (filtered to RD_DATA4YOU_L2_COGNIZANT),
+     then right-click the header > Export > CSV (or Excel).
+  2. Either upload that file here, or drop it in your Downloads folder and let the
+     app auto-detect the newest ServiceNow export.
+  3. The chatbot answers questions about that data entirely locally. No ServiceNow
+     connection, cookies, or credentials involved.
+
+Data freshness = your last export. Re-export and re-load to refresh.
+N)Údatetime©ÚPath)ÚFastAPIÚRequestÚ
+UploadFileÚFile)ÚHTMLResponseÚJSONResponsezconfig.jsonc                ó$   € V ^8„  d   QhR\         /# ©é   Úreturn©Údict)Úformats   "Ú1C:\Users\AShukl77\data4you\d4u-sam-chatbot\app.pyÚ__annotate__r      s   € ÷ ñ ”Tñ ó    c                  óØ   € \         P                  4       '       d<   \        \         R RR7      ;_uu_ 4       p \        P                  ! V 4      uuRRR4       # / #   + '       g   i     / # ; i)Úrúutf-8)ÚencodingN)ÚCONFIG_PATHÚexistsÚopenÚjsonÚload)Úfhs    r   Úload_configr      sH   € Ü×Ñ×ÒÜ
+”+˜s¨W×
+5Õ
+5¸Ü—9’9˜R“=÷ 6Ò
+5à
+€I÷ 6Ö
+5à
+€Iús   µAÁA)	Úassignment_groupÚRD_DATA4YOU_L2_COGNIZANTÚ
+downloads_dirz~/DownloadsÚrowsÚcolumnsÚsourceÚ	loaded_atÚcountzD4U SAM Chatbot (export))ÚtitleÚnumberÚshort_descriptionÚpriorityÚpriÚstateÚassigned_toÚ	opened_atÚupdatedÚcategoryÚcallerÚstudyÚtherapeutic_areaÚidpz
+u_study.u_idpc                ó0   € V ^8„  d   QhR\         R\         /# )r
+   Úheaderr   ©Ústr)r   s   "r   r   r   F   s   € ÷ 
+ñ 
+”3ð 
+œ3ñ 
+r   c                 ó¤   € T ;'       g    R P                  4       P                  4       p\        P                  4        F  w  r#W9   g   K
+  Vu # 	  V# ©Ú )ÚstripÚlowerÚCOLUMN_ALIASESÚitems)r7   ÚhÚ	canonicalÚvariantss   &   r   Ú_canonrD   F   sG   € Ø	ˆ2×ÑÓ×$Ñ$Ó&€AÜ-×3Ñ3Ö5Ñˆ	ØŽ=ØÒñ  6ð 
+€Hr   c                ó\   € V ^8„  d   QhR\         \        ,          R\         \        ,          /# )r
+   Úraw_rowsr   )Úlistr   )r   s   "r   r   r   N   s"   € ÷ ñ œd¤4jð ¬T´$­Zñ r   c                 óð   € . pV  Fm  p/ pVP                  4        FC  w  rE\        V\        4      '       d   T;'       g    R P                  4       MTV\	        V4      &   KE  	  VP                  V4       Ko  	  V# r;   )r@   Ú
+isinstancer9   r=   rD   Úappend)rF   Úoutr   ÚrowÚkÚvs   &     r   Ú_normalize_rowsrO   N   sb   € Ø
+€CÛ
+ˆØˆØ—G‘G–I‰DˆAÜ2<¸QÄ×2DÒ2D˜aŸg˜g 2Ÿ_™_Ô.È!ˆC”q“	‹Nñ à
+‰
+3Žñ	 ð
+ €Jr   c                ó0   € V ^8„  d   QhR\         R\         /# )r
+   Úsampler   r8   )r   s   "r   r   r   [   s   € ÷ ñ œSð ¤Sñ r   c                 óˆ   €  \         P                  ! 4       P                  V R R7      P                  #   \         d     R# i ; i)z,;	)Ú
+delimitersÚ,)ÚcsvÚSnifferÚsniffÚ	delimiterÚ	Exception)rQ   s   &r   Ú_sniff_delimiterrZ   [   s;   € ðÜ{Š{‹}×"Ñ" 6°fÐ"Ó=×GÑGÐGøÜô Úðús   ‚/2 ²AÁ Ac                óF   € V ^8„  d   QhR\         R\        \        ,          /# ©r
+   Útextr   )r9   rG   r   )r   s   "r   r   r   b   s   € ÷ %ñ %œð %¤¤T¥
+ñ %r   c                 ó   € V '       d   V ^ ,          R8X  d
+   V R,          p V R,          p\        V4      p\        P                  ! \        P                  ! V 4      VR7      pV Uu. uF  p\        V4      NK  	  up# u upi )é    u   ï»¿:é   NN:Ni   N)rX   )rZ   rU   Ú
+DictReaderÚioÚStringIOr   )r]   rQ   ÚdelimÚreaderr   s   &    r   Ú
+load_csv_textrf   b   sa   € çQ•˜8Ô#ØBxˆØ
+%[€FÜ˜VÓ$€EÜ
+^Š^œBŸKšK¨Ó-¸Ô
+?€FÙ#Ó$™V˜ŒDŽG™VÑ$Ð$ùÒ$s   Á$A;c          	      ó‚   € V ^8„  d   QhR\         R\        R\        \        \        ,          \         R,          3,          /# )r
+   ÚnameÚdatar   N)r9   ÚbytesÚtuplerG   r   )r   s   "r   r   r   l   s8   € ÷ Qñ Q”Sð Q¤ð Q¬%´´Tµ
+¼CÀ$½JÐ0FÕ*Gñ Qr   c                 ób  € V P                  4       pVP                  R
+4      '       g   RVR,          9   g   RVR,          9   d5   R F.  p VP                  V4      p\        V4      pV'       d   VR3u # K0  	  VP                  R4      '       dÒ    ^ RIHp V! \        P                  ! V4      RRR7      pVP                  pVP                  RR7      p	\        V	4       U
+u. uF  qªe   \        V
+4      MR	NK  	  pp
+. pV	 FY  pTP                  \        V4       U
+Uu/ uF/  w  rÞV
+\        V4      8  g   K  W½,          Vf   R	M
+\        V4      bK1  	  upp
+4       K[  	  VR3# . R3#   \         d     EK-  i ; iu up
+i u upp
+i   \          d    . R
+3u # \         d   p. RT 23u Rp?# Rp?ii ; i)ú.csvó   ,:NiÐ  Nó   ;N)Ú
+load_workbookT)Ú	read_onlyÚ	data_only)Úvalues_onlyr<   u_   This is an Excel file. Install support with: pip install openpyxl â€” or export as CSV instead.zCould not read Excel file: z?Unrecognized file format. Please export from ServiceNow as CSV.)rm   z.txt)z	utf-8-sigr   Úcp1252zlatin-1)z.xlsxz.xls)r>   ÚendswithÚdecoderf   rY   Úopenpyxlrp   rb   ÚBytesIOÚactiveÚ	iter_rowsÚnextr9   rJ   Ú	enumerateÚlenÚModuleNotFoundError)rh   ri   r>   Úencr]   r#   rp   ÚwbÚwsÚitÚcÚheadersÚvalsÚirN   Úexcs   &&              r   Ú
+load_bytesrˆ   l   s   € ØJ‰J‹L€Eà‡~~Ð&×'Ò'¨4°4¸µ;Ô+>À$È$ÈuÍ+ÔBUÛ>ˆCð
+Ø—{‘{ 3Ó'Ü$ TÓ*ßØ ˜:Ò%ñ ñ	 ?ð 
+‡~~Ð'×(Ò(ð
+	;Ý.ÙœrŸzšz¨$Ó/¸4È4ÔPˆBØ—‘ˆBØ—‘¨$Ó/ˆBÜ@DÀRÄÓIÁ¸1¢”s˜1”v°BÒ6ÁˆGÐIØˆDÛØ—‘ÔS\Ð]aÔSbÔwÑSbÉ4È1ÐfgÔjmÐnuÓjvÑfvÔE˜WZ°²	©"¼sÀ1»vÒEÑSbÒwÖxñ à˜:Ðð
+ ÐPÐPÐPøô% ô 
+Ûð
+üò Jùó xøä"ô 	yØÐxÐxÒxÜô 	;ØÐ4°S°EÐ:Ð:Õ:ûð	;úsa   Á
+'E$ÂAF Ã E7Ã9"F ÄE<Ä4E<ÅF Å$E4Å3E4Å7F ÆF.ÆF.ÆF.ÆF)Æ#F.Æ)F.c                óR   € V ^8„  d   QhR\         \        ,          R\        R\        /# )r
+   r#   r%   r   )rG   r   r9   )r   s   "r   r   r   ‹   s%   € ÷ ñ ”dœ4•jð ¬#ð ´$ñ r   c                 ó@  € \        V 4      pV\        R &   \        V UUu0 uF  q3P                  4        F  qDkK  	  K  	  upp4      \        R&   V\        R&   \        P
+                  ! 4       P
+                  R4      \        R&   \        V4      \        R&   \        # u uppi )r#   r$   r%   z%Y-%m-%d %H:%M:%Sr&   r'   )rO   ÚDATAÚsortedÚkeysr   ÚnowÚstrftimer}   )r#   r%   Únormr   rM   s   &&   r   Úset_datasetr‘   ‹   s{   € Ü˜4Ó €DØ„DˆLÜ©Ô@© A·v±v¶x°!ša±x™a©Ò@ÓA„DˆOØ„DˆNÜ Ÿš›×/Ñ/Ð0CÓD„DˆÑÜ˜“I„DˆMÜ€Kùó	 As   Ÿ B
+c                ó2   € V ^8„  d   QhR\         R,          /# )r
+   r   Nr   )r   s   "r   r   r   •   s   € ÷ ñ œd Tkñ r   c                 óð   € \         P                  4       '       g   R# . p R F'  pV P                  \         P                  V4      4       K)  	  R R lpV '       g   R# V P	                  VRR7       V ^ ,          # )z?Find the newest likely ServiceNow incident export in Downloads.Nc                ó$   € V ^8„  d   QhR\         /# )r
+   Úpr   )r   s   "r   r   Ú*find_latest_download.<locals>.__annotate__   s   € ÷ 5ñ 5”ñ 5r   c                 óø   a€ V P                   P                  4       o\        ;QJ d    V3R  lR 4       F  '       g   K   RM	  RM! V3R  lR 4       4      pV'       d   ^M^ V P                  4       P                  3# )c              3   ó,   <"  € T F	  qS9   x € K  	  R # 5i©N© )Ú.0rM   Úns   & €r   Ú	<genexpr>Ú6find_latest_download.<locals>.score.<locals>.<genexpr>Ÿ   s   øé € Ð[Ñ#Z˜a˜–6Ó#Zùs   ƒTF)ÚincidentÚsn_Ú
+servicenowÚtaskÚd4uÚsam)rh   r>   ÚanyÚstatÚst_mtime)r•   Úhintrœ   s   & @r   ÚscoreÚ#find_latest_download.<locals>.score   sO   ø€ Ø
+F‰FL‰L‹Nˆß‹sÔ[Ñ#ZÓ[ssŠsÔ[Ñ#ZÓ[Ó[ˆß‘˜q !§&¡&£(×"3Ñ"3Ð4Ð4r   T)ÚkeyÚreverse)z*.csvz*.xlsxz*.xls)Ú	DOWNLOADSr   ÚextendÚglobÚsort)Ú
+candidatesÚpatr©   s      r   Úfind_latest_downloadr³   •   sa   € ä×Ñ×ÒÙØ€JÛ+ˆØ×Ñœ)Ÿ.™.¨Ó-Ö.ñ ,õ5÷ ÙØ‡OO˜ t€OÔ,Øa=Ðr   c                ó$   € V ^8„  d   QhR\         /# r   )Úbool)r   s   "r   r   r   ®   s   € ÷ ñ ”Tñ r   c                 ó¢   € \        V P                  R R4      4      P                  4       P                  4       pV'       g   R# V\        9   d   R# R# )r-   r<   TF)r9   Úgetr=   r>   Ú
+CLOSED_STATES)rL   Ústs   & r   Ú_is_openrº   ®   s=   € Ü	ˆSW‰WW˜bÓ
+!Ó	"×	(Ñ	(Ó	*×	0Ñ	0Ó	2€Bß
+ÙØ	Œ]ÔÙÙr   c                ó$   € V ^8„  d   QhR\         /# r   r8   )r   s   "r   r   r   ·   s   € ÷ ñ ”cñ r   c                óJ  € \        V P                  RR4      4      P                  4       pV'       g   R# \        P                  ! RV4      pV'       d   VP                  ^4      # \        P                  ! RV4      pV'       d!   VP                  ^4      P
+                  ^4      # R# )zQExtract the 2-digit month from opened_at (handles YYYY-MM-DD and DD-MM-YYYY-ish).r/   r<   z^\s*(\d{4})-(\d{2})-(\d{2})z#^\s*\d{1,2}[/-](\d{1,2})[/-]\d{2,4})r9   r·   r=   ÚreÚsearchÚgroupÚzfill)rL   ÚvalÚmÚm2s   &   r   Ú	_month_ofrÄ   ·   sx   € ä
+
+ˆcg‰gk 2Ó&Ó
+'×
+-Ñ
+-Ó
+/€CßÙÜ
+	Š	Ð0°#Ó6€AßØw‰wq‹zÐä	ŠÐ9¸3Ó	?€Bß	Øx‰x˜‹{× Ñ  Ó#Ð#Ù
+r   c                ó$   € V ^8„  d   QhR\         /# r   r8   )r   s   "r   r   r   Æ   s   € ÷ "ñ "œ3ñ "r   c                 óÔ   € \        V P                  R R4      4      P                  4       P                  4       p\        P
+                  ! RV4      pV'       d   VP
+                  ^4      # T# )r+   r<   z\s*(\d))r9   r·   r=   r>   r½   Úmatchr¿   )rL   r•   rÂ   s   &  r   Ú_priority_rankrÈ   Æ   sN   € ÜˆCG‰GJ Ó#Ó$×*Ñ*Ó,×2Ñ2Ó4€Aä
+Š˜QÓ€Aßˆ17‰71‹:Ð! Ð!r   c                ó$   € V ^8„  d   QhR\         /# r   r8   )r   s   "r   r   r   Í   s   € ÷ 
+Bñ 
+BœCñ 
+Br   c                 ó:  € V '       g   R # . pV RV  F¯  pVP                  RR4      pVP                  RR4      pVP                  RR4      pVP                  RR4      pVP                  RR4      ;'       g    R	pR
+P                  WV3 U	u. uF  q™'       g   K  V	NK  	  up	4      p
+VP                  RV RV
+ R
+V RV 24       K±  	  \        V 4      V8”  d   R\        V 4      V,
+           R2MRp\        V 4       R2RP                  V4      ,           V,           # u up	i )z+No matching incidents in the loaded export.Nr)   Ú?r+   r<   r-   r*   r.   Ú
+Unassignedz / u   â€¢ z  [z]  u     â€” u	   
+â€¦ and z more.z match(es):
+Ú
+)r·   ÚjoinrJ   r}   )r#   ÚlimitÚlinesr   Únumr,   r¹   ÚdescÚwhoÚxÚtagÚextras   &&          r   Ú_fmtr×   Í   s  € ßÙ<Ø€EØ
+&5‹\ˆØe‰eH˜cÓ"ˆØe‰eJ Ó#ˆØ
+U‰U7˜BÓ
+ˆØu‰uÐ(¨"Ó-ˆØe‰eM 2Ó&×6Ð6¨,ˆØj‰j c¡YÓ4¡Y ³!Ÿ!˜!¡YÑ4Ó5ˆØ
+‰t˜C˜5  C 5¨¨D¨6°¸°uÐ=Ö>ñ ô 7:¸$³iÀ%Ô6Gˆjœ˜T› UÕ*Ð+¨6Ñ2ÈR€EÜ$‹iˆ[˜
+Ð&¨¯©°5Ó)9Õ9¸EÕAÐAùò 5s   Â		D
+ÂD
+c                ó$   € V ^8„  d   QhR\         /# r   r   )r   s   "r   r   r   Ý   s   € ÷ ñ ¤Tñ r   c                óØ  € . pV RV  FÄ  pTP                  RVP                  RR4      RVP                  RR4      R\        V4      RVP                  RR4      R\        V4      RVP                  RR4      R	VP                  R	R4      ;'       g    R
+RVP                  RR4      RVP                  RR4      R
+VP                  R
+R4      /
+4       KÆ  	  RRR\	        V 4      R\	        V4      RV/# )z>Structured result the UI renders as a table of incident cards.Nr)   r<   r+   Ú
+priority_rankr-   r   r*   r.   rÌ   r3   r4   r/   ÚtypeÚ	incidentsÚtotalÚshownr@   )rJ   r·   rÈ   rº   r}   )r#   rÏ   r@   r   s   &&  r   Ú
+_rows_payloadrß   Ý   sí   € à€EØ
+&5‹\ˆØ
+‰Øa—e‘e˜H bÓ)Ø˜Ÿ™˜j¨"Ó-Øœ^¨AÓ.ØQ—U‘U˜7 BÓ'Ø”H˜Q“KØ §¡Ð':¸BÓ!?Ø˜1Ÿ5™5 °Ó3×CÐC°|ØQ—U‘U˜7 BÓ'Ø §¡Ð&8¸"Ó =Ø˜Ÿ™˜{¨BÓ/ð
+ö 	ñ ð 	Ø”T“Ø”U“Øð	ð r   c                ó0   € V ^8„  d   QhR\         R\        /# r\   ©r9   r   )r   s   "r   r   r   õ   s   € ÷ *ñ *œð *¤ñ *r   c                 ó   € R RRV /# )rÛ   r]   rš   )r]   s   &r   Ú
+_text_payloadrã   õ   s   € ØF˜F DÐ)Ð)r   c                ó0   € V ^8„  d   QhR\         R\        /# )r
+   Úlabelr   rá   )r   s   "r   r   r   ù   s   € ÷ ñ œ#ð ¬ñ r   c                óJ   € \        V4      pRVR&   WR&   \        V4      VR&   V# )zNA headline count plus the matching rows (so UI shows the number AND the list).r'   rÛ   rå   Úvalue)rß   r}   )rå   r#   Úpayloads   && r   Ú_count_payloadré   ù   s0   € ä˜DÓ!€GØ€GˆFOØˆGÑÜ˜4“y€GˆGÑØ€Nr   ÚStudyzTherapeutic areazAssigned toÚCategoryÚPriorityÚStateÚ01ÚJanÚ02ÚFebÚ03ÚMarÚ04ÚAprÚ05ÚMayÚ06ÚJunÚ07ÚJulÚ08ÚAugÚ09ÚSepÚ10ÚOctÚ11ÚNovÚ12ÚDecc                ó$   € V ^8„  d   QhR\         /# r   r8   )r   s   "r   r   r     s   € ÷ ñ ”3ñ r   c                ó¼  € \        V P                  RR4      4      P                  4       p\        P                  ! RV4      pV'       d&   VP                  ^4       RVP                  ^4       2# \        P                  ! RV4      pV'       dP   VP                  ^4      p\
+        V4      ^8X  d
+   RV,           pV RVP                  ^4      P                  ^4       2# R# )zAReturn YYYY-MM from opened_at for correct chronological ordering.r/   r<   z^\s*(\d{4})-(\d{2})-\d{2}Ú-z'^\s*(\d{1,2})[/-](\d{1,2})[/-](\d{2,4})Ú20)r9   r·   r=   r½   r¾   r¿   r}   rÀ   )rL   rÁ   rÂ   rÃ   Úyears   &    r   Ú_ym_ofr    s²   € ä
+
+ˆcg‰gk 2Ó&Ó
+'×
+-Ñ
+-Ó
+/€CÜ
+	Š	Ð.°Ó4€AßØ—'‘'˜!“*˜Q˜qŸw™w q›z˜lÐ+Ð+Ü	ŠÐ=¸sÓ	C€Bß	Øx‰x˜‹{ˆÜˆt‹9˜Œ>Ø˜$•;ˆDØq˜Ÿ™ !›×*Ñ*¨1Ó-Ð.Ð/Ð/Ù
+r   c                ó0   € V ^8„  d   QhR\         R\        /# ©r
+   Úfieldr   rá   )r   s   "r   r   r   "  s   € ÷ *ñ *¤#ð *¼ñ *r   c                óh  a
+aa€ \        V Uu0 uF!  p\        V4      '       g   K  \        V4      kK#  	  up4      p/ o/ oV F‡  p\        V4      o
+S
+'       g   K  VP                  V 4      ;'       g    RP                  4       ;'       g    RpSP                  V^ 4      ^,           SV&   SP                  S
+V3^ 4      ^,           SS
+V3&   K‰  	  \        SV3R lR7      pVRV p\	        V4      V8„  pYx'       d   R.M. ,           p	V U
+u. uFJ  p
+\
+        P                  V
+P
+                  R4      ^,          V
+4       RV
+P
+                  R4      ^ ,           2NKL  	  pp
+. pV	 Fp  p. p
+V FP  o
+VR8X  d"   V'       d   \        VV
+3R	 lWbR  4       4      pMSP                  S
+V3^ 4      pV
+P                  V4       KR  	  VP                  R
+VRV
+/4       Kr  	  RR
+R
+RRRRT RR\        P                  W 4       2RTRTR\	        V Uu. uF  p\        V4      '       g   K  VNK  	  up4      /# u upi u up
+i u upi )zCBuild a stacked-bar dataset: X = month, series = values of `field`.r<   ú(none)c                 ó   <€ SV ,          ) # r™   rš   )rM   Ú
+series_totalss   &€r   Ú<lambda>Ú(_monthly_chart_payload.<locals>.<lambda>2  s
+   ø€ °-ÀÕ2BÑ1Br   ©r«   NÚOtherr  Ú c              3   óL   <"  € T F  pSP                  SV3^ 4      x € K  	  R# 5i)r_   N)r·   )r›   rM   ÚcellÚyms   & €€r   r   Ú)_monthly_chart_payload.<locals>.<genexpr>=  s#   øé € ÐI¹.°Q˜DŸH™H b¨! W¨a×0Ð0».ùs   ƒ!$rå   ri   rÛ   ÚchartÚbarÚstackedTr  r(   zIncidents per month by ÚlabelsÚdatasetsrÝ   )
+rŒ   r  r·   r=   r}   ÚMONTH_NAMESÚsplitÚsumrJ   Ú	GROUPABLE)r  r#   Útop_nr   Úmonthsr«   ÚrankedÚkeepÚ	has_otherr   r  r  r   ri   rÝ   r  r  s   &&&       `    @@r   Ú_monthly_chart_payloadr*  "  s  ú€ ô ©Ó:© 1´°q·	”Y”V˜A–Y©Ñ:Ó
+;€Fà€MØ
+€DÛ
+ˆÜ
+A‹YˆßÙØu‰uU‹|×!Ð!˜r×(Ñ(Ó*×6Ð6¨hˆØ*×.Ñ.¨s°AÓ6¸Õ:ˆ
+cÑØŸ(™( B¨ 9¨aÓ0°1Õ4ˆˆb#ˆY‹ñ
+ ô MÔ'BÔ
+C€FØ&5ˆ>€DÜF“˜eÑ#€IØ¦	G‘9¨rÕ2€DáV\Ó
+]ÑV\ÐPR”—‘ §¡¨#£¨qÕ!1°2Ó6Ð7°q¸¿¹À#»ÀqÕ9IÐ8JÓKÑV\€FÐ
+]Ø€HÛˆØˆÛˆBØgŒ~§)ÜÕI¸&À¹.ÓIÓI‘àŸ™ " c ¨AÓ.ØK‰K˜Öñ ð 	‰˜ # v¨tÐ4Ö5ñ ð 	ØØ4ØØÐ*¬9¯=©=¸Ó+FÐ*GÐHØ&ØHØ”¡Ó3¡˜A¬°¯—aa¡Ñ3Ó4ð	ð 	ùò= ;ùò$ ^ùò( 4s   H%¥H%ÄAH*Ç?H/&ÈH/&c                ó0   € V ^8„  d   QhR\         R\        /# r
+  rá   )r   s   "r   r   r   O  s   € ÷ ñ œ#ð ¼dñ r   c                 óª  € / pV FQ  pVP                  V 4      ;'       g    R P                  4       ;'       g    TpVP                  V^ 4      ^,           W5&   KS  	  \        VP                  4       R R7      pRRRT R\        P                  W P                  4       4      R\
+        V4      R\
+        V4      R	V UUu. uF  w  rxR
+VRV/NK
+  	  upp/# u uppi )r<   c                 óD   € V ^,          ) V ^ ,          P                  4       3# )r`   )r>   )Úkvs   &r   r  Ú _group_payload.<locals>.<lambda>U  s   € °b¸µe°V¸RÀ½U¿[¹[»]Ñ4Kr   r  rÛ   r¿   r  rå   rÝ   ÚdistinctÚgroupsr«   r'   )r·   r=   rŒ   r@   r$  r(   r}   )	r  r#   Úblank_labelÚcountsr   r«   ÚorderedrM   rN   s	   &&&      r   Ú_group_payloadr5  O  sÁ   € Ø
+€FÛ
+ˆØu‰uU‹|×!Ð!˜r×(Ñ(Ó*×9Ð9¨kˆØ—j‘j  aÓ(¨1Õ,ˆ‹ñ ô V—\‘\“^Ñ)KÔL€GàØØ”—‘˜u§k¡k£mÓ4Ø”T“Ø”C˜“KØ±gÔ>±g©d¨aE˜1˜g qÓ)±gÒ>ð
+ð ùó ?s   Â9Cc                ó:   € V ^8„  d   QhR\         \        ,          /# r   )rG   r9   )r   s   "r   r   r   `  s   € ÷ ñ œœcñ r   c                  óÜ   € \        4       p \        R ,           FG  pVP                  R4      ;'       g    RP                  4       pV'       g   K6  V P	                  V4       KI  	  \        V 4      # )r#   r.   r<   )Úsetr‹   r·   r=   ÚaddrŒ   )Únamesr   Úas      r   Úknown_assigneesr<  `  sT   € Ü‹E€EÜ
+&\ˆ\ˆØ
+U‰U=Ó
+!×
+'Ð
+' R×.Ñ.Ó0ˆß‰1ØI‰IaŽLñ ô %‹=Ðr   c                óF   € V ^8„  d   QhR\         R\        \         ,          /# r
+  )r9   rG   )r   s   "r   r   r   i  s   € ÷ ñ œð ¤¤S¥	ñ r   c                 ó
+  € \        4       p\        R ,           F^  pVP                  V 4      ;'       g    RP                  4       pV'       g   K6  VP	                  4       R8w  g   KM  VP                  V4       K`  	  \
+        V4      # )r#   r<   zn/a)r8  r‹   r·   r=   r>   r9  rŒ   )r  r…   r   rN   s   &   r   Úknown_valuesr?  i  s`   € Ü‹5€DÜ
+&\ˆ\ˆØ
+U‰U5‹\×
+Ð
+˜R×&Ñ&Ó(ˆß‰1—‘“˜eÖ#ØH‰HQŽKñ ô $‹<Ðr   c                ó$   € V ^8„  d   QhR\         /# ©r
+   Úlowr8   )r   s   "r   r   r   r  s   € ÷ ñ ¤ñ r   c                óÌ   € \        R4       FT  p\        P                  ! R\        P                  ! VP	                  4       4      ,           R,           V 4      '       g   KR  Vu # 	  R# )z9Match a therapeutic area mentioned anywhere in the query.r4   ú\bN)r?  r½   r¾   Úescaper>   )rB  Útas   & r   Ú_match_therapeutic_arearG  r  sF   € äÐ-Ö.ˆÜ
+9Š9UœRŸYšY r§x¡x£zÓ2Õ2°UÕ:¸C×@Ô@ØŠIñ /ñ r   c                ó$   € V ^8„  d   QhR\         /# )r
+   Úmsgr8   )r   s   "r   r   r   z  s   € ÷ ñ ”cñ r   c                óè  € \         P                  ! RV 4      pV'       d\   VP                  ^4      P                  4       p\	        R4       F  pVP                  4       V8X  g   K  Vu # 	  VP                  ^4      # \         P                  ! RV \         P
+                  4      pV'       dJ   VP                  ^4      P                  4       p\	        R4       F  pW#P                  4       9   g   K  Vu # 	  R# )zNMatch a study id. Study ids look like 77242113UCO3001 (digits+letters+digits).z\b(\d{6,}[A-Za-z]{2,}\d{2,})\br3   z\bstudy\s+([A-Za-z0-9]{5,})\bN)r½   r¾   r¿   r>   r?  Ú
+IGNORECASE)rI  rÂ   ÚtokenÚsrÃ   s   &    r   Ú_match_studyrN  z  s³   € ä
+	Š	Ð3°SÓ9€AßØ—‘˜“
+× Ñ Ó"ˆÜ˜gÖ&ˆAØw‰w‹y˜EÖ!Ø’ñ 'ð w‰wq‹zÐä	ŠÐ3°S¼"¿-¹-Ó	H€Bß	Ø—‘˜“×!Ñ!Ó#ˆÜ˜gÖ&ˆAØŸ™›	Ö!Ø’ñ 'ñ r   c                ó$   € V ^8„  d   QhR\         /# rA  r8   )r   s   "r   r   r     s   € ÷ ñ ”sñ r   c                óè  € Rp^ p\        4        FÚ  pVP                  4       p\        P                  ! RRV4      P	                  4       p\        P
+                  ! RV4       Uu. uF  p\
+        V4      ^8”  g   K  VNK  	  ppV Fc  p\        P                  ! R\        P                  ! V4      ,           R,           V 4      '       g   KD  \
+        V4      V8”  g   KV  Tp\
+        V4      pKe  	  KÜ  	  V# u upi )z€Find a person from the dataset mentioned anywhere in the query.
+Matches on any name token (e.g. 'akash' matches 'Akash Shukla').Nú\s*\(.*?\)\s*$r<   z[\s,]+rD  )	r<  r>   r½   Úsubr=   r"  r}   r¾   rE  )rB  ÚbestÚbest_lenÚfullÚflÚbaseÚtÚtokenss   &       r   Ú
+_match_personrZ    sÂ   € ð €DØ€HÜÖ!ˆØ
+Z‰Z‹\ˆävŠvÐ'¨¨RÓ0×6Ñ6Ó8ˆÜŸXšX i°Ô6ÓEÑ6˜¼#¸a»&À1¹*—!!Ñ6ˆÐEÛˆAÜyŠy˜¤§¢¨1£Õ-°Õ5°s×;Ô;ÄÀAÃÈÖ@QØÜ˜q›6’ó ñ "ð €Kùò Fs   Á!C/Á8C/c                ó$   € V ^8„  d   QhR\         /# r   r8   )r   s   "r   r   r   ž  s   € ÷ iñ i”3ñ ir   c                 óè  a
+€ \         R,          ^ 8„  o
+V
+3R lp RpS
+'       dO   \        4       '       d?   \        4       ^ ,          p\        P                  ! RRV4      P	                  4       ^ ,          pV ! RR4      pV ! RR	4      pRpS
+'       d7   \         R
+,           F%  pVP                  R4      '       g   K  VR,          p M	  T;'       g    RpR
+\         R2S
+'       d    R\         R,           R\         R,           R2MR,           pR. R>O3R. R?O3R. R@O3RRV RV R2RRV 2.3RRV RV 2R V 2.3R!R"V 2R#V 2.3R$R%R&.3R'R(R)V R*V R2.3R+R V R,V 2R-V 2R.V 2R/.3R0. RAO3R1. RBO3R2R3V R42R5R6.3R7R8R9V,           R:,           .3.
+pV.p	V F>  w  r«V	P                  R;V
+,           4       V F  pV	P                  R<V,           4       K  	  K@  	  V	P                  R=4       R;P                  V	4      # )Cz‰Build a full capability guide. When data is loaded, use real values from the
+export as examples so the suggestions are directly runnable.r'   c                 óP   <€ S'       d   \        V 4      pV'       d
+   V^ ,          # V# )r_   )r?  )r  Úfallbackr…   Úloadeds   && €r   ÚfirstÚhelp_text.<locals>.first¤  s!   ø€ ßÜ Ó&ˆDßØ˜A•wØˆr   za namerQ  r<   r3   Ú77242113UCO3001r4   ÚOncologyr#   r)   ÚSINC0492904zI'm your D4U (ú) issue assistant. zI have ú incidents loaded from r%   z.
+z_Load a ServiceNow CSV/Excel export first (Upload, drag-drop, or 'Load latest from Downloads').
+zGREETINGS & BASICSzSTATUS FILTERSz!PRIORITY FILTERS (P1-P5 or words)zPEOPLE / ASSIGNMENTzassigned to z   |   z's incidentsz+unassigned   (open incidents with no owner)zhow many incidents worked by zTHERAPEUTIC AREAz
+incidents in z   |   how many cases in zopen P2 in ÚSTUDYzincidents for study zopen incidents in study zDATES / MONTHS (by opened date)z)cases in november   |   opened in octoberz4works with full or short month names (jan, feb, ...)ÚCOUNTSzAhow many open incidents   |   number of P2   |   count unassignedzhow many in z   |   count of zCOMBINE FILTERS (mix freely)z
+ assigned to zunassigned in zon hold in study zresolved in novemberzBREAKDOWNS / GROUP BYzMONTHLY TREND CHARTSzSPECIFIC INCIDENT & SEARCHz
+status of z   (exact lookup)uF   any free text  â€” searches description / number / assignee / categoryz%e.g. 'timeout', 'pipeline', 'refresh'ÚLISTINGz&list all   (full list, no 100-row cap)z0add 'list all' to any filter, e.g. 'list all in Ú'rÍ   u     â€¢ z^
+Tip: data is a snapshot of your last export. Re-export from ServiceNow and reload to refresh.)u+   hi / hello / good morning  â€” I greet backu   help  â€” this guideu@   summary  â€” totals, open/closed, unassigned, priority breakdown)z4open incidents  (open = New / In Progress / On Hold)zUresolved   |   closed   |   on hold (or 'onhold')   |   in progress (or 'inprogress')znew   |   canceled)z9open P2   |   critical / high / moderate / low / planningzP3 incidents   |   priority 4z@(if a priority has no incidents, I'll tell you which ones exist))z$group by study   |   cases per studyz-breakdown by assignee   |   group by categoryz:by therapeutic area   |   group by priority   |   by state)zmonthly chart by statusz]monthly chart by assignee   |   ...by study   |   ...by priority   |   ...by therapeutic areaz4(also triggers on: trend / graph / plot / over time))	r‹   r<  r½   rR  r"  r·   ÚGROUPrJ   rÎ   )r`  Úexample_namerU  Ú
+example_studyÚ
+example_taÚexample_numberr   r7   ÚsectionsrK   r(   r@   r‚   r_  s                @r   Ú	help_textrq  ž  sâ  ø€ ô ']˜QÑ
+€Fõð €Lß
+”/×#Ò#äÓ  Õ#ˆÜ—v’vÐ/°°TÓ:×@Ñ@ÓBÀ1ÕEˆÙ˜'Ð#4Ó5€MÙÐ)¨:Ó6€JØ€Nß
+Üf—ˆAØu‰uXŒØ!" 8¥Ùñ ð $×4Ð4 }€Nð œ˜Ð2Ð3çð ”T˜'•]OÐ#:¼4À½>Ð:JÈ#ÑNð@õ	Að ð 
+ò
+Nð	Oð
+ 
+ò
+ ð	!ð
+ 
+-ò
+Nð	Oð
+ 
+Ø˜˜ g¨l¨^¸<Ð
+HØ
+7Ø)¨,¨Ð
+8ð
+:ð	;ð
+ 
+Ø˜*˜Ð%>¸z¸lÐ
+KØ˜
+|Ð
+$ð
+&ð	'ð 
+Ø   Ð
+0Ø$ ] OÐ
+4ð
+6ð	7ð 
++Ø
+5Ø
+@ð
+Bð	Cð 
+Ø
+MØ˜˜Ð$4°\°NÀ,Ð
+Oð
+Qð	Rð 
+(Ø˜
+| =°°Ð
+?Ø˜:˜,Ð
+'Ø˜m˜_Ð
+-Ø
+ ð
+"ð	#ð 
+!ò
+Hð	Ið
+ 
+ ò
+Bð	Cð
+ 
+&Ø~Ð&Ð&7Ð
+8Ø
+RØ
+1ð
+3ð	4ð
+ 
+Ø
+2Ø
+<¸zÕ
+IÈCÕ
+Oð
+Qð	Rðu=€Hð~ ˆ(€CÛ ‰ˆØ
+‰
+4˜%•<Ô ÛˆBØJ‰Jx "•}Ö%ó ñ !ð ‡JJð 3ô 4à9‰9S‹>Ðr   c                ó$   € V ^8„  d   QhR\         /# r   r   )r   s   "r   r   r   
+  s   € ÷ ñ ”ñ r   c                  óà  € \         R ,          p V '       g   \        R4      # \        V 4      p\        R V  4       4      pW,
+          p/ pV  F3  p\	        V4      ;'       g    RpVP                  V^ 4      ^,           WF&   K5  	  \        R V  4       4      pRRR\         R,          R\         R,          R	TR
+TRTRTR
+\
+        VP                  4       4       UU	u. uF  w  r‰RVRV	/NK
+  	  up	p/# u up	pi )r#   zNo data loaded yet.c              3   óL   "  € T F  p\        V4      '       g   K  ^x € K  	  R# 5i)r`   N)rº   ©r›   r   s   & r   r   Úsummary.<locals>.<genexpr>  s   é € Ð0™Dq¤H¨Q§K—’›Dùó   ‚$š
+$rË   c              3   ó®   "  € T FK  p\        V4      '       g   K  VP                  R 4      ;'       g    RP                  4       '       d   KG  ^x € KM  	  R# 5i)r.   r<   N)rº   r·   r=   ru  s   & r   r   rv    s7   é € Ða¡˜1¬°¯”Q¸Q¿U¹UÀ=Ó=Q×=WÐ=WÐUW×<^Ñ<^×<`—Q’Q£ùs   ‚AšA²AÁ
+ArÛ   Úsummaryr%   r&   rÝ   r   ÚclosedÚunassigned_openÚby_priorityÚrankr'   )r‹   rã   r}   r#  rÈ   r·   rŒ   r@   )
+r#   rÝ   Úopen_nÚclosed_nÚby_prir   r}  Ú
+unassignedrM   rN   s
+             r   ry  ry  
+  sì   € Ü<€DßÜÐ2Ó3Ð3Ü‹I€EÜ
+Ñ0™DÓ0Ó
+0€FØ~€HØ
+€FÛ
+ˆÜ˜aÓ ×'Ð' CˆØ—z‘z $¨Ó*¨QÕ.ˆ‹ñ ô Ña¡ÓaÓa€Jà	Ø”$x•.Ø”T˜+Õ&ØØØ(Ø˜:Ø¼FÀ6Ç<Á<Ã>Ô<RÔSÑ<R±D°A˜  G¨QÓ/Ñ<RÒSð	ð 	ùó Ts   ÃC*$c                ó$   € V ^8„  d   QhR\         /# r   r   )r   s   "r   r   r   ,  s   € ÷ 
+ñ 
+œñ 
+r   c                  óÌ   € \         R ,          ^ 8„  p V '       d!   R\         R ,           R\         R,           R2pMRp\        R\        ,           R,           V,           R,           4      # )	r'   z	I've got rf  r%   z. zILoad a ServiceNow export first (Upload or 'Load latest from Downloads'). zHi! I'm your D4U (re  zAsk me things like 'open incidents', 'how many P2', 'unassigned', 'assigned to <name>', 'summary', or 'status of SINC...'. Type 'help' for more.)r‹   rã   rk  )r_  rÖ   s     r   Ú_greeting_replyr„  ,  sc   € Ü
+']˜QÑ
+€Fß
+ØœD M˜?Ð*AÄ$ÀxÅ.ÐAQÐQSÐT‰à[ˆÜØœuÕ$Ð'<Õ<¸uÕDð	Yõ	Yóð r   c                ó0   € V ^8„  d   QhR\         R\        /# )r
+   rI  r   rá   )r   s   "r   r   r   9  s   € ÷ hñ hœð h¤ñ hr   c                 ób  aa*€ V P                  4       P                  4       o*\        R ,          p\        P                  ! RRS*4      P                  4       pV\
+        9   d   \
+        4       # V\        9   d   \        R4      # V\        9   d   \        R4      # V '       d   S*R9   d   \        \        4       4      # V'       g   \        R4      # S*R€9   d   \        4       # \        P                  ! RS*4      '       Ed   Rp\        P                  ! RS*4      '       d   R	pM¢\        P                  ! R
+S*4      '       d   RpM‚\        P                  ! RS*4      '       d   R
+pMb\        P                  ! RS*4      '       d   RpMB\        P                  ! RS*4      '       d   RpM"\        P                  ! RS*4      '       d   RpMR	pV\        R,          9  d/   RP                  R \         4       4      p\        RV RV R24      # \        W14      # \        P                  ! RS*4      '       g   S*P!                  R4      '       Ed   Rp\        P                  ! RS*4      '       d   R
+pMŸ\        P                  ! RS*4      '       d   RpM\        P                  ! R
+S*4      '       d   RpM_\        P                  ! RS*4      '       d   RpM?\        P                  ! RS*4      '       d   RpM\        P                  ! RS*4      '       d   R	pV'       dV   V\        R,          9  d9   RP                  R \         4       4      p\        RT R T;'       g    R! R24      # \#        WQ4      # \        P                  ! R"V \        P$                  4      pV'       d´   VP'                  ^4      P)                  4       pV Uu. uF5  p\+        VP-                  R#R4      4      P)                  4       V8X  g   K3  VNK7  	  p	pV	'       gA   V Uu. uF4  q‡\+        VP-                  R#R4      4      P)                  4       9   g   K2  VNK6  	  p	p\/        V	4      # \1        \        P                  ! R$S*4      4      p
+\1        \        P                  ! R%S*4      4      ;'       g    R&S*P3                  4       9   p\1        \        P                  ! R'S*4      4      p\1        \        P                  ! R(S*4      4      p
+R)S*9   ;'       g    R*S*9   pR+. ROR,. R‚OR-R..R/R0.R1R2.R3R4R5./pRpVP5                  4        FJ  w  pp\6        ;QJ d    V*3R6 lV 4       F  '       g   K   R7M	  R8M! V*3R6 lV 4       4      '       g   KH  Tp M	  / R9R:bR;R:bR<R=bR>R=bR?R@bRAR@bRBRCbRDRCbRERFbRGRHbRIRHbRJRKbRLRKbRMRNbRORNbRPRQbRRRQbRSRQRTRURVRURWRXRYRXRZR[R\R[/CpRpVP5                  4        F5  w  pp\        P                  ! R]V,           R],           S*4      '       g   K3  Tp M	  R^. RƒOR_. R„OR`. R…ORa. R†ORb. R‡O/pRpVP5                  4        FJ  w  pp\6        ;QJ d    V*3Rc lV 4       F  '       g   K   R7M	  R8M! V*3Rc lV 4       4      '       g   KH  Tp M	  \9        S*4      pRpV'       d   TpMARdS*9   d;   S*P3                  Rd^4      ^,          P                  4       pV'       d   VRe8w  d   TpTpR\        R,          9   d   \;        S*4      MRpR
+\        R,          9   d   \=        V 4      MRpTp. pV'       dg   VP                  4       p V Uu. uF5  pV \+        VP-                  RR4      4      P                  4       9   g   K3  VNK7  	  ppVP?                  RfV Rg24       V'       do   V Uu. uFQ  p\+        VP-                  R	R4      4      P                  4       P                  4       VP                  4       8X  g   KO  VNKS  	  ppVP?                  V4       V'       d8   V Uu. uF  p\A        V4      V8X  g   K  VNK  	  ppVP?                  RhV 24       V'       dg   VP                  4       p!V Uu. uF5  pV!\+        VP-                  RR4      4      P                  4       8X  g   K3  VNK7  	  ppVP?                  RiV Rg24       V'       dg   VP                  4       p"V Uu. uF5  pV"\+        VP-                  R
+R4      4      P                  4       8X  g   K3  VNK7  	  ppVP?                  RjV Rg24       V'       dS   V Uu. uF5  qˆP-                  R4      ;'       g    RP                  4       '       d   K3  VNK7  	  ppVP?                  R)4       V'       d—   V Uu0 uF  p\C        V4      kK  	  p#pVV#9  d;   RP                  Rk \E        Rl V# 4       4       4       4      p$\        RmV RnV$ R24      # V Uu. uF  p\C        V4      V8X  g   K  VNK  	  ppVP?                  RoV,           4       V'       gŒ   V'       d?   V
+'       g7   V Uu. uF  p\G        V4      '       g   K  VNK  	  ppVP?                  Rp4       MEV
+'       d>   V'       g6   V Uu. uF  p\G        V4      '       d   K  VNK  	  ppVP?                  Rq4       \1        T;'       gI    T;'       g?    T;'       g5    T;'       g+    T;'       g!    T;'       g    T;'       g
+    T;'       g    T
+4      p%V%'       dg   RrV'       d   RP                  V4      MR,           p&V
+'       d   \I        V&P                  4       V4      # V'       d   \K        V4      M^dp'\/        VV'Rs7      # V'       g&   S*P!                  Rt4      '       g   RuS*9   g   RvS*9   d7   V
+'       d
+   \I        RwV4      # V'       d   \K        V4      M^dp'\/        VV'Rs7      # V Uau. uF5  oS*RxP                  V3Ry lRˆ 4       4      P                  4       9   g   K3  SNK7  	  p(pV('       d&   V
+'       d   \I        RzV  Rg2V(4      # \/        V(^dRs7      # RP                  \M        4       R{,          4      p)\        R|V)'       d   R}V) R~2,           4      # R,           4      # u upi u upi u upi u upi u upi u upi u upi u upi u upi u upi u upi u upi u upi )‰r#   z[!.?,]+$r<   z7You're welcome! Anything else about your D4U incidents?z5Goodbye! Come back anytime to check on D4U incidents.z[No export loaded yet. Upload a ServiceNow CSV export or click 'Load latest from Downloads'.z?\b(chart|graph|plot|trend|trends|monthly|per month|over time)\bNz\b(status|state)\br-   z+\b(assignee|assigned|person|people|owner)\br.   z\b(study|studies)\br3   z\b(priority|severity)\br+   z\b(therapeutic|\bta\b)\br4   z\b(category|type)\br1   r$   z, c              3   óL   "  € T F  q\         R ,          9   g   K  Vx € K  	  R# 5i©r$   N©r‹   ©r›   rƒ   s   & r   r   Ú!handle_message.<locals>.<genexpr>d  s   é € ÐK© A¼4À	½?Ñ6JŸaša«ùrw  zNo 'z' column to chart. Available: Ú.zz\b(group by|groupby|breakdown|break down|per|by study|by assignee|by category|by priority|by state|by ta|by therapeutic)\bzby z\b(category|type|kind)\bz\b(state|status)\bc              3   óL   "  € T F  q\         R ,          9   g   K  Vx € K  	  R# 5irˆ  r‰  rŠ  s   & r   r   r‹  |  s   é € Ð!O©Y¨¼tÀI½Ñ:N§!¢!«Yùrw  zThe loaded export has no 'z' column. I can group by: znothing groupablez\b((?:S?INC)\d{3,})\br)   z3\b(how many|no of|number of|count of|count|total)\bzI\b(list all|show all|all of them|everything|full list|list|show me all)\bÚallz\b(open|active|pending)\bz\b(resolved|closed|done)\br  zno ownerzOn HoldzIn ProgressÚNewÚnewÚResolvedÚresolvedÚClosedrz  ÚCanceledÚcanceledÚ	cancelledc              3   ó–   <"  € T F>  p\         P                  ! R \         P                  ! V4      ,           R ,           S4      x € K@  	  R# 5i©rD  N©r½   r¾   rE  ©r›   ÚwrB  s   & €r   r   r‹     ó1   øé € ÐKÁUÀŒryŠy˜¤§¢¨1£Õ-°Õ5°s×;Ð;ÃUùó   ƒAA	TFÚjanuaryrî   ÚjanÚfebruaryrð   ÚfebÚmarchrò   ÚmarÚaprilrô   ÚaprÚmayrö   Újunerø   ÚjunÚjulyrú   ÚjulÚaugustrü   ÚaugÚ	septemberrþ   ÚsepÚseptÚoctoberr   ÚoctÚnovemberr  ÚnovÚdecemberr  ÚdecrD  Ú1Ú2Ú3Ú4Ú5c              3   ó–   <"  € T F>  p\         P                  ! R \         P                  ! V4      ,           R ,           S4      x € K@  	  R# 5ir˜  r™  rš  s   & €r   r   r‹  ½  rœ  r  úassigned toÚmez
+assigned to 'rj  zopened in month zTA 'zstudy 'c              3   ó4   "  € T F  pR V,           x € K  	  R# 5i)ÚPNrš   )r›   r•   s   & r   r   r‹  î  s   é € ÐNÑ.M¨˜S 1ŸWšWÓ.Mùs   ‚c              3   ó8   "  € T F  q'       g   K  Vx € K  	  R # 5ir™   rš   )r›   rÔ   s   & r   r   r‹  î  s   é € Ð4MÁ¸1Ë1·Q²QÃùs   ‚	
+zThere are no Pz7 incidents in this export. The priorities present are: r¿  r   zresolved/closedz
+Incidents )rÏ   rG   Úrecentzshow mezTotal incidentsr  c              3   óZ   <"  € T F   p\        SP                  VR 4      4      x € K"  	  R# 5i)r<   N)r9   r·   )r›   Úfr   s   & €r   r   r‹    s'   øé € ð .Ù#]˜aŒˆAE‰E!R‹L×ÐÓ#]ùs   ƒ(+zIncidents matching ':Né   Nu   I couldn't match that to a filter. Try things like:
+â€¢ how many incidents worked by Akash
+â€¢ open P1
+â€¢ unassigned
+â€¢ resolved
+â€¢ summary
+z 
+People in this export include: u   â€¦)	ÚhelprË   ÚcommandsÚmenuÚoptionszwhat can you dozwhat can i askÚcapabilitiesÚguide)r'   ry  ÚstatsÚoverviewrÝ   )úon holdÚonholdÚhold)úin progressÚ
+inprogressÚprogressÚwip)Úp1z
+priority 1Úcritical)Úp2z
+priority 2Úhigh)Úp3z
+priority 3ÚmoderateÚmedium)Úp4z
+priority 4rB  )Úp5z
+priority 5Úplanning)r*   r)   r.   r1   )'r>   r=   r‹   r½   rR  Ú	GREETINGSr„  ÚTHANKSrã   ÚBYESrq  ry  r¾   rÎ   r$  r*  Ú
+startswithr5  rK  r¿   Úupperr9   r·   rß   rµ   r"  r@   r¥   rZ  rG  rN  rJ   rÄ   rÈ   rŒ   rº   ré   r}   r<  )+rI  r#   ÚcleanÚcfieldÚavailr  rÂ   rÑ   r   rÇ   Úwants_countÚ	wants_allÚ
+wants_openÚwants_closedÚwants_unassignedÚSTATE_WORDSÚwanted_stateÚ
+state_nameÚwordsÚMONTHSÚwanted_monthrh   ÚPRIORITY_WORDSÚwanted_priorityr}  ÚpersonÚperson_labelÚtailrF  r3   ÚfilteredÚappliedÚplÚtalÚslÚpresentÚhaveÚ
+any_filterrå   rÏ   ÚresrQ   rB  s+   &       `                                 @r   Úhandle_messagerÿ  9  s¬  ù€ Ø
+
+)‰)‹+×
+Ñ
+Ó
+€CÜ<€Dô 
+FŠF;  CÓ(×.Ñ.Ó0€EØ”	ÔÜÓ Ð Ø”„ÜÐVÓWÐWØ”„}ÜÐTÓUÐUç#ð Xô XäœY›[Ó)Ð)ßÜØió
+ð 	
+ð
+ Ð@Ô@Ü‹yÐô 
+‡y‚yÐSÐUX×YÓYØˆÜ
+9Š9Ð*¨C×0Ò0Ø‰FÜ
+YŠYÐEÀs×
+KÒ
+KØ"‰FÜ
+YŠYÐ-¨s×
+3Ò
+3Ø‰FÜ
+YŠYÐ1°3×
+7Ò
+7Ø‰FÜ
+YŠYÐ2°C×
+8Ò
+8Ø'‰FÜ
+YŠYÐ-¨s×
+3Ò
+3Ø‰FàˆFØœ˜iÔ(Ø—I‘IÑK­ÓKÓKˆEÜ  4¨ xÐ/MÈeÈWÐTUÐ!VÓWÐWÜ% fÓ3Ð3ô 
+‡y‚yð  Oð  QT÷  Uò  UØ
+
+.‰.˜×
+Ó
+àˆÜ
+9Š9Ð+¨S×1Ò1Ø‰EÜ
+YŠYÐ2°C×
+8Ò
+8Ø&‰EÜ
+YŠYÐEÀs×
+KÒ
+KØ!‰EÜ
+YŠYÐ2°C×
+8Ò
+8Ø‰EÜ
+YŠYÐ1°3×
+7Ò
+7Ø‰EÜ
+YŠYÐ,¨c×
+2Ò
+2ØˆEßàœD OÔ+ØŸ	™	Ñ!O­YÓ!OÓOÜ$Ø0°°ð 8'Ø',×'CÐ'CÐ0CÐ&DÀAðGóð ô " %Ó.Ð.ô 		Š	Ð*¨C´·±Ó?€AßØg‰ga‹j×ÑÓ ˆÙ ÓL™Dq¤C¨¯©¨h¸Ó(;Ó$<×$BÑ$BÓ$DÈÑ$K—™DˆÐLßÙ $ÓP¡˜1¬s°1·5±5¸À2Ó3FÓ/G×/MÑ/MÓ/OÑ(O—QQ¡ˆEÐPÜ˜UÓ#Ð#ô ”r—y’yÐ!WÐY\Ó]Ó^€KÜ”R—Y’YÐkÐmpÓqÓr÷ (ð (Ø˜CŸI™I›KÑ'ð ô ”b—i’iÐ <¸cÓBÓC€JÜœŸ	š	Ð"?ÀÓEÓF€LØ# sÑ*×?Ð?¨j¸CÑ.?Ðð 	Ò0ØÒGØ
+ˆwØZLØ8*ØZ Ð-ð
+€Kð €LØ(×.Ñ.Ö0Ñˆ
+Eß‹3ÔKÁUÓK33Š3ÔKÁUÓK×KÔKØ%ˆLÙñ 1ðØ4ðØ ðØ&0°$ðØ8=¸tðàðà˜dðà$+¨Tðà38¸$ðð 	ˆtðð ˜Tðð $)¨$ðð 17¸ðð ?DÀTðð 	$ð	ð ˜tð	ð &1°$ð	ð 9>¸tð	ð FLÈTØ4˜  j°$¸¸tØD˜% ñ
+€Fð €LØ—\‘\–^‰	ˆˆcÜ
+9Š9U˜T•\ EÕ)¨3×/Ô/ØˆLÙñ $ð 	Ò
+-ØÒ
+)ØÒ
+7ØÒ
+(ØÒ
+-ð€Nð €OØ%×+Ñ+Ö-‰ˆˆeß‹3ÔKÁUÓK33Š3ÔKÁUÓK×KÔKØ"ˆOÙñ .ô ˜3Ó
+€FØ€Lß
+Ø‰Ø	˜#Ô	Øy‰y˜¨Ó*¨1Õ-×3Ñ3Ó5ˆßD˜D”LØˆFØˆLð *<¼tÀI½Ô)NÔ	  Ô	%ÐTX€BØ!(¬D°­OÔ!;ŒL˜ÔÀ€Eð €HØ€Gç
+Ø
+\‰\‹^ˆÙ'ÓW™x˜!¨2´°Q·U±U¸=È"Ó5MÓ1N×1TÑ1TÓ1VÑ+V—AA™xˆÐWØ‰˜ | n°AÐ6Ô7ßÙ'Ók™x˜!¬3¨q¯u©u°W¸bÓ/AÓ+B×+HÑ+HÓ+J×+PÑ+PÓ+RÐVb×VhÑVhÓVjÑ+j—AA™xˆÐkØ‰|Ô$ßÙ'ÓH™x˜!¬9°Q«<¸<Ñ+G—AA™xˆÐHØ‰Ð)¨,¨Ð8Ô9ß	Øh‰h‹jˆÙ'Ó]™x˜!¨3´#°a·e±eÐ<NÐPRÓ6SÓ2T×2ZÑ2ZÓ2\Ñ+\—AA™xˆÐ]Ø‰˜˜b˜T |Ô$ßØ
+[‰[‹]ˆÙ'ÓQ™x˜!¨2´°Q·U±U¸7ÀBÓ5GÓ1H×1NÑ1NÓ1PÑ+P—AA™xˆÐQØ‰˜   qÐ)Ô*ßÙ'ÓT™x˜!·±°mÓ0D×0JÐ0JÈ×/QÑ/Q×/S—AA™xˆÐTØ‰|Ô$ßá.2Ó3©d¨”> !Ö$©dˆÐ3Ø 'Ô)Ø—9‘9ÑN¬fÑ4MÁÓ4MÔ.MÓNÓNˆDÜ Ø  Ð 1ð 2/Ø/3¨f°Að7óð 
+ñ  (ÓP™x˜!¬>¸!Ó+<ÀÑ+O—AA™xˆÐPØ‰s˜_Õ,Ô-çßŸlÙ#+Ó;¡8˜a¬x¸¯{Ÿ˜¡8ˆHÐ;ØN‰N˜6Õ"ß
+§*Ù#+Ó?¡8˜a´8¸A·;Ÿ˜¡8ˆHÐ?ØN‰NÐ,Ô-äf÷  Qð  Q ÷  Qð  Q e÷  Qð  Q¨|÷  Qð  Q¸|÷  Qð  QÐO_÷  Qð  QÐcr÷  Qð  Qð  wA÷  Qð  Qð  EQó  R€JçØ·g §	¡	¨'Ô 2À2ÕFˆßÜ! %§+¡+£-°Ó:Ð:ß!*”H”
+°ˆÜ˜X¨UÔ3Ð3÷ C—N‘N 6×*Ò*¨h¸#¬oÀÈcÔAQßÜ!Ð"3°TÓ:Ð:ß&”D”	¨CˆÜ˜T¨Ô/Ð/ñ ô ‘d˜c S§X¡Xô .Ù#]ó.ó &çeƒgñ1ˆ1‘d€Cð ÷ ßÜ!Ð$8¸¸¸QÐ"?ÀÓEÐEÜ˜S¨Ô,Ð,ð Y‰Y”Ó(¨Õ,Ó
+-€FÜð	÷ ?EÐ
+.¨v¨h°cÐ:õ
+	Nóð ð KMõ
+	Nóð ùòe MùâPùò\ Xùò lùò Iùò ^ùò Rùò Uùò 4ùò Qùò
+ <ùò @ùò(s   Î,0q0Ï!q0Ï5/q5Ð)q5Ü0q:Ýq:Ý;Aq?ßq?ß1ràrá 0r	á5r	â.0rã#rärä(rårå&rçrçrèr"è,r"ér'é2r'î<0r,ï1r,Ú/)Úresponse_classc               ƒ   óP   "  € \        \        P                  R \        4      4      # 5i)Ú	__GROUP__)r	   Ú
+INDEX_HTMLÚreplacerk  rš   r   r   Úindexr  '  s   é € äœ
+×*Ñ*¨;¼Ó>Ó?Ð?ùs   ‚$&z/statusc               ƒ   ó¦   "  € R \         R,          ^ 8„  R\         R,          R\         R,          R\         R,          R\        R\        \        4      /# 5i)r_  r'   r%   r&   r¿   Ú	downloads)r‹   rk  r9   r­   rš   r   r   Ústatusr	  ,  sI   é € ð 	”$w•- !Ñ#Ø”g•Ø”$x•.Ø”T˜+Õ&Ø”Ø”Sœ“^ð
+ð ùs   ‚AAz/upload.c                ó$   € V ^8„  d   QhR\         /# )r
+   Úfile)r   )r   s   "r   r   r   9  s   € ÷ Lñ L”zñ Lr   c              ƒ   ó8  "  € V P                  4       G R j  x€L
+ p\        V P                  V4      w  r#V'       d   \        RRRV/RR7      # V'       g   \        RRRR/RR7      # \	        W P                  4       RRR\
+        R,          R	\
+        R	,          /#  L5i)
+NÚokFÚerroré  ©Ústatus_codezNo rows found in the file.Tr'   r$   )Úreadrˆ   Úfilenamer
+   r‘   r‹   )r  ri   r#   Úerrs   &   r   Úuploadr  8  s…   é € à—‘“×€DÜ˜4Ÿ=™=¨$Ó/I€Dß
+Ü˜T 5¨'°3Ð7ÀSÔIÐIßÜ˜T 5¨'Ð3OÐPÐ^aÔbÐbÜ—m‘mÔ$Ø$˜¤ g¥°	¼4À	½?ÐKÐKñ ùs   ‚B–B—<BÁABz/load-latestc            
+   ƒ   ó  "  € \        4       p V '       g   \        R RRR\         R2/RR7      #  V P                  4       p\
+        T P
+                  T4      w  r4T'       d   \        R RRT/R	R7      # T'       g    \        R RRRT P
+                   R2/R	R7      # \        Y0P
+                  4       R RR
+\        R
+,          RT P
+                  /#   \         d,   p\        R RRRT P
+                   RT 2/R	R7      u R
+p?# R
+p?ii ; i5i)r
+  Fr  zNo CSV/Excel files found in rŒ  i”  r  zCould not read z: r  NzNo rows found in Tr'   r  )	r³   r
+   r­   Ú
+read_bytesrY   rh   rˆ   r‘   r‹   )Úlatestri   r‡   r#   r  s        r   Úload_latestr  D  s  é € ä
+!Ó
+#€FßÜØ
+5˜'Ð%AÄ)ÀÈAÐ#NÐOØô
+ð 	
+ðmØ× Ñ Ó"ˆô ˜6Ÿ;™;¨Ó-I€Dß
+Ü˜T 5¨'°3Ð7ÀSÔIÐIßÜ˜T 5¨'Ð5FÀvÇ{Á{ÀmÐSTÐ3UÐVÐdgÔhÐhÜ—k‘kÔ"Ø$˜¤ g¥°¸¿¹ÐDÐDøô ô mÜ˜T 5¨'°_ÀVÇ[Á[ÀMÐQSÐTWÐSXÐ3YÐZÐhkÔlÕlûðmüs:   ‚,D¯C	 ¿8DÁ8ADÃ	C?Ã C:Ã4C?Ã5DÃ:C?Ã?Dz/chatc                ó$   € V ^8„  d   QhR\         /# )r
+   Úrequest)r   )r   s   "r   r   r   Z  s   € ÷ =ñ =œñ =r   c              ƒ   ó¼   "  € V P                  4       G R j  x€L
+ pVP                  R4      ;'       g    RP                  4       p\        R\	        V4      /4      #  LC5i)NÚmessager<   Úresult)r   r·   r=   r
+   rÿ  )r  Úbodyr  s   &  r   Úchatr   Y  sL   é € à—‘“×€DØx‰x˜	Ó"×(Ð( b×/Ñ/Ó1€GÜ˜¤>°'Ó#:Ð;Ó<Ð<ñ  ùs   ‚A–A—A³(Au©4  <!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<title>D4U Tracker | SAM - Issue Chatbot</title>
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
+<style>
+  :root{--bg:#0f172a;--panel:#1e293b;--accent:#2563eb;--muted:#64748b;--text:#e2e8f0;}
+  *{box-sizing:border-box;}
+  body{margin:0;font-family:'Segoe UI',Arial,sans-serif;background:var(--bg);color:var(--text);height:100vh;display:flex;flex-direction:column;}
+  header{padding:12px 20px;background:var(--panel);display:flex;align-items:center;justify-content:space-between;border-bottom:1px solid #334155;gap:12px;flex-wrap:wrap;}
+  header h1{font-size:15px;margin:0;font-weight:600;}
+  .pill{font-size:12px;padding:4px 10px;border-radius:999px;}
+  .pill.on{background:#14532d;color:#86efac;}
+  .pill.off{background:#450a0a;color:#fca5a5;}
+  button{cursor:pointer;border:none;border-radius:8px;font-size:13px;}
+  .bar{display:flex;gap:8px;align-items:center;flex-wrap:wrap;padding:10px 16px;background:#0b1220;border-bottom:1px solid #334155;}
+  .bar button{background:var(--accent);color:#fff;padding:8px 12px;}
+  .bar button.ghost{background:#1e293b;border:1px solid #334155;color:var(--text);}
+  .bar label{font-size:12px;color:var(--muted);}
+  #drop{border:1px dashed #475569;border-radius:8px;padding:8px 12px;font-size:12px;color:var(--muted);}
+  #drop.hot{border-color:var(--accent);color:var(--text);}
+  #log{flex:1;overflow-y:auto;padding:18px;display:flex;flex-direction:column;gap:12px;}
+  .msg{max-width:92%;padding:10px 14px;border-radius:12px;white-space:pre-wrap;line-height:1.45;font-size:14px;}
+  .user{align-self:flex-end;background:var(--accent);color:#fff;border-bottom-right-radius:3px;max-width:82%;}
+  .bot{align-self:flex-start;background:var(--panel);border-bottom-left-radius:3px;width:92%;}
+  .count{font-size:12px;color:var(--muted);margin-bottom:8px;}
+  table.inc{width:100%;border-collapse:collapse;font-size:13px;}
+  table.inc th{text-align:left;color:var(--muted);font-weight:600;padding:6px 8px;border-bottom:1px solid #334155;position:sticky;top:0;background:var(--panel);}
+  table.inc td{padding:7px 8px;border-bottom:1px solid #22304a;vertical-align:top;}
+  table.inc tr:hover td{background:#17233b;}
+  .num{font-family:monospace;color:#93c5fd;white-space:nowrap;}
+  .badge{display:inline-block;padding:2px 8px;border-radius:999px;font-size:11px;font-weight:600;white-space:nowrap;}
+  .p1{background:#7f1d1d;color:#fecaca;}
+  .p2{background:#7c2d12;color:#fed7aa;}
+  .p3{background:#713f12;color:#fde68a;}
+  .p4{background:#064e3b;color:#a7f3d0;}
+  .p5{background:#1e3a5f;color:#bae6fd;}
+  .pX{background:#334155;color:#cbd5e1;}
+  .st{font-size:12px;color:#cbd5e1;white-space:nowrap;}
+  .st.closed{color:#64748b;}
+  .tablewrap{max-height:52vh;overflow:auto;border:1px solid #334155;border-radius:8px;}
+  .tiles{display:flex;gap:10px;flex-wrap:wrap;}
+  .tile{background:#0b1220;border:1px solid #334155;border-radius:10px;padding:10px 16px;min-width:96px;}
+  .tile .n{font-size:22px;font-weight:700;}
+  .tile .l{font-size:11px;color:var(--muted);text-transform:uppercase;letter-spacing:.04em;}
+  .meta{font-size:11px;color:var(--muted);margin-top:8px;}
+  .chips{display:flex;gap:8px;flex-wrap:wrap;padding:0 14px 10px;background:var(--panel);}
+  .chip{background:#0b1220;border:1px solid #334155;color:var(--text);padding:6px 10px;border-radius:999px;font-size:12px;}
+  #composer{display:flex;gap:10px;padding:14px;background:var(--panel);border-top:1px solid #334155;}
+  #composer input{flex:1;padding:12px 14px;border-radius:8px;border:1px solid #334155;background:#0b1220;color:var(--text);font-size:14px;}
+  #composer button{background:var(--accent);color:#fff;padding:0 20px;}
+  .err{color:#fca5a5;font-size:12px;}
+  a{color:#60a5fa;}
+</style>
+</head>
+<body>
+<header>
+  <h1>D4U Tracker | SAM â€” __GROUP__</h1>
+  <span id="state" class="pill off">No data loaded</span>
+</header>
+
+<div class="bar">
+  <button onclick="document.getElementById('fileInput').click()">Upload CSV/Excel</button>
+  <input id="fileInput" type="file" accept=".csv,.xlsx,.xls,.txt" style="display:none" onchange="uploadFile(this.files[0])"/>
+  <button class="ghost" onclick="loadLatest()">Load latest from Downloads</button>
+  <span id="drop">â€¦or drag a ServiceNow export here</span>
+  <span id="err" class="err"></span>
+</div>
+
+<div id="log"></div>
+
+<div class="chips">
+  <button class="chip" onclick="quick('summary')">summary</button>
+  <button class="chip" onclick="quick('open incidents')">open incidents</button>
+  <button class="chip" onclick="quick('open P1')">open P1</button>
+  <button class="chip" onclick="quick('unassigned')">unassigned</button>
+  <button class="chip" onclick="quick('list all')">list all</button>
+  <button class="chip" onclick="quick('monthly chart by status')">chart: status</button>
+  <button class="chip" onclick="quick('monthly chart by assignee')">chart: assignee</button>
+  <button class="chip" onclick="quick('monthly chart by study')">chart: study</button>
+  <button class="chip" onclick="quick('help')">help</button>
+</div>
+
+<form id="composer" onsubmit="return send(event)">
+  <input id="box" autocomplete="off" placeholder="Ask about your exported incidentsâ€¦ (type 'help')"/>
+  <button type="submit">Send</button>
+</form>
+
+<script>
+function esc(s){ const d=document.createElement('div'); d.textContent = s==null?'':String(s); return d.innerHTML; }
+
+function priBadge(rank, label){
+  const cls = ['1','2','3','4','5'].includes(String(rank)) ? 'p'+rank : 'pX';
+  return '<span class="badge '+cls+'">'+esc(label||('P'+rank))+'</span>';
+}
+
+function addMsg(role, text){
+  const d = document.createElement('div');
+  d.className = 'msg ' + (role==='user'?'user':'bot');
+  d.textContent = text;
+  const log = document.getElementById('log');
+  log.appendChild(d); log.scrollTop = log.scrollHeight;
+  return d;
+}
+
+function addNode(html){
+  const d = document.createElement('div');
+  d.className = 'msg bot';
+  d.innerHTML = html;
+  const log = document.getElementById('log');
+  log.appendChild(d); log.scrollTop = log.scrollHeight;
+  return d;
+}
+
+function renderIncidents(res){
+  if(res.total === 0) return addMsg('bot', 'No matching incidents in the loaded export.');
+  let rows = res.items.map(it => {
+    const stCls = it.open ? 'st' : 'st closed';
+    return '<tr>'
+      + '<td class="num">'+esc(it.number)+'</td>'
+      + '<td>'+priBadge(it.priority_rank, it.priority)+'</td>'
+      + '<td><span class="'+stCls+'">'+esc(it.state)+'</span></td>'
+      + '<td>'+esc(it.short_description)+'</td>'
+      + '<td>'+esc(it.study||'')+'</td>'
+      + '<td>'+esc(it.therapeutic_area||'')+'</td>'
+      + '<td>'+esc(it.assigned_to)+'</td>'
+      + '</tr>';
+  }).join('');
+  const more = res.shown < res.total ? ' (showing first '+res.shown+')' : '';
+  const html = '<div class="count">'+res.total+' incident(s)'+more+'</div>'
+    + '<div class="tablewrap"><table class="inc">'
+    + '<thead><tr><th>Number</th><th>Priority</th><th>State</th><th>Short description</th><th>Study</th><th>TA</th><th>Assigned to</th></tr></thead>'
+    + '<tbody>'+rows+'</tbody></table></div>';
+  return addNode(html);
+}
+
+function renderSummary(res){
+  const pri = res.by_priority.map(p => '<div class="tile"><div class="n">'+p.count+'</div><div class="l">P'+esc(p.rank)+'</div></div>').join('');
+  const html =
+    '<div class="tiles">'
+    + '<div class="tile"><div class="n">'+res.total+'</div><div class="l">Total</div></div>'
+    + '<div class="tile"><div class="n">'+res.open+'</div><div class="l">Open</div></div>'
+    + '<div class="tile"><div class="n">'+res.closed+'</div><div class="l">Closed</div></div>'
+    + '<div class="tile"><div class="n">'+res.unassigned_open+'</div><div class="l">Unassigned</div></div>'
+    + '</div>'
+    + '<div class="meta">By priority</div><div class="tiles">'+pri+'</div>'
+    + '<div class="meta">Source: '+esc(res.source||'')+' Â· loaded '+esc(res.loaded_at||'')+'</div>';
+  return addNode(html);
+}
+
+function renderCount(res){
+  let head = '<div class="tiles"><div class="tile"><div class="n">'+res.value+'</div><div class="l">'+esc(res.label||'Count')+'</div></div></div>';
+  if(res.total > 0){
+    const sub = renderIncidents(res);  // appends its own node
+    // prepend the count tile into that same node
+    sub.insertAdjacentHTML('afterbegin', head);
+    return sub;
+  }
+  return addNode(head + '<div class="count" style="margin-top:8px">No matching incidents.</div>');
+}
+
+function renderGroup(res){
+  const max = Math.max(1, ...res.groups.map(g => g.count));
+  const rows = res.groups.map(g => {
+    const pct = Math.round((g.count / max) * 100);
+    return '<tr>'
+      + '<td>'+esc(g.key)+'</td>'
+      + '<td style="width:90px"><div style="background:#2563eb;height:14px;border-radius:3px;width:'+pct+'%;min-width:4px"></div></td>'
+      + '<td style="text-align:right;width:60px">'+g.count+'</td>'
+      + '</tr>';
+  }).join('');
+  const html = '<div class="count">'+res.label+' â€” '+res.distinct+' group(s), '+res.total+' incidents total</div>'
+    + '<div class="tablewrap"><table class="inc">'
+    + '<thead><tr><th>'+esc(res.label)+'</th><th></th><th style="text-align:right">Count</th></tr></thead>'
+    + '<tbody>'+rows+'</tbody></table></div>';
+  return addNode(html);
+}
+
+const CHART_COLORS = ['#2563eb','#16a34a','#f59e0b','#dc2626','#9333ea','#0891b2','#db2777','#65a30d','#ea580c','#64748b'];
+
+function renderChart(res){
+  const node = addNode('<div class="count">'+esc(res.title)+' ('+res.total+' incidents)</div><div style="background:#0b1220;border:1px solid #334155;border-radius:8px;padding:10px"><canvas></canvas></div>');
+  const canvas = node.querySelector('canvas');
+  if(typeof Chart === 'undefined'){
+    node.innerHTML += '<div class="err">Chart library not loaded (no internet for CDN). I can switch to an offline chart if needed.</div>';
+    return node;
+  }
+  const datasets = res.datasets.map((d, i) => ({
+    label: d.label,
+    data: d.data,
+    backgroundColor: CHART_COLORS[i % CHART_COLORS.length],
+    borderWidth: 0,
+  }));
+  new Chart(canvas, {
+    type: res.chart || 'bar',
+    data: { labels: res.labels, datasets: datasets },
+    options: {
+      responsive: true,
+      plugins: {
+        legend: { labels: { color: '#e2e8f0', boxWidth: 12, font: { size: 11 } } },
+        tooltip: { mode: 'index', intersect: false },
+      },
+      scales: {
+        x: { stacked: !!res.stacked, ticks: { color: '#cbd5e1' }, grid: { color: '#22304a' } },
+        y: { stacked: !!res.stacked, beginAtZero: true, ticks: { color: '#cbd5e1' }, grid: { color: '#22304a' } },
+      },
+    },
+  });
+  return node;
+}
+
+function renderResult(res){
+  if(!res) return addMsg('bot', '(no response)');
+  if(res.type === 'incidents') return renderIncidents(res);
+  if(res.type === 'summary') return renderSummary(res);
+  if(res.type === 'count') return renderCount(res);
+  if(res.type === 'group') return renderGroup(res);
+  if(res.type === 'chart') return renderChart(res);
+  return addMsg('bot', res.text || '');
+}
+
+async function refreshStatus(){
+  const j = await (await fetch('/status')).json();
+  const pill = document.getElementById('state');
+  if(j.loaded){
+    pill.textContent = j.count + ' incidents Â· ' + (j.source||'') ;
+    pill.className = 'pill on';
+  } else {
+    pill.textContent = 'No data loaded';
+    pill.className = 'pill off';
+  }
+}
+
+function setErr(t){ document.getElementById('err').textContent = t || ''; }
+
+async function uploadFile(file){
+  if(!file) return;
+  setErr('');
+  const fd = new FormData(); fd.append('file', file);
+  const r = await fetch('/upload', {method:'POST', body: fd});
+  const j = await r.json();
+  if(j.ok){ await refreshStatus(); addMsg('bot', 'Loaded ' + j.count + ' incidents from ' + file.name + ". Ask me anything, or type 'summary'."); }
+  else setErr(j.error || 'Upload failed.');
+}
+
+async function loadLatest(){
+  setErr('');
+  const r = await fetch('/load-latest', {method:'POST'});
+  const j = await r.json();
+  if(j.ok){ await refreshStatus(); addMsg('bot', 'Loaded ' + j.count + ' incidents from ' + j.file + '.'); }
+  else setErr(j.error || 'No file found.');
+}
+
+function quick(t){ document.getElementById('box').value = t; send(new Event('x')); }
+
+async function send(ev){
+  if(ev && ev.preventDefault) ev.preventDefault();
+  const box = document.getElementById('box');
+  const text = box.value.trim();
+  if(!text) return false;
+  addMsg('user', text); box.value='';
+  const pending = addMsg('bot', 'â€¦');
+  try{
+    const j = await (await fetch('/chat',{method:'POST',headers:{'Content-Type':'application/json'},
+      body: JSON.stringify({message:text})})).json();
+    pending.remove();
+    renderResult(j.result);
+  }catch(e){ pending.textContent = 'Error: ' + e; }
+  return false;
+}
+
+// Drag & drop
+const drop = document.getElementById('drop');
+['dragover','dragenter'].forEach(e=>document.body.addEventListener(e,ev=>{ev.preventDefault();drop.classList.add('hot');}));
+['dragleave','drop'].forEach(e=>document.body.addEventListener(e,ev=>{ev.preventDefault();drop.classList.remove('hot');}));
+document.body.addEventListener('drop', ev=>{ const f = ev.dataTransfer.files[0]; if(f) uploadFile(f); });
+
+addMsg('bot', "Welcome. Load a ServiceNow export (Upload or 'Load latest from Downloads'), then ask about your __GROUP__ incidents. Type 'help' for options.");
+refreshStatus();
+setInterval(refreshStatus, 6000);
+</script>
+</body>
+</html>
+Ú__main__ÚPORTÚ8766z	127.0.0.1)ÚhostÚport)r)   r¢   rŸ   )zshort descriptionr*   Údescriptionry  )r-   r	  zincident state)r¼  r.   ÚassigneeÚowner)zassignment groupr    r¿   )Úopenedz	opened atr/   ÚcreatedÚsys_created_on)r0   z
+updated atÚsys_updated_onzlast updated)r2   z	caller idz
+requested for)Úu_studyr3   zstudy idzstudy number)zu_study.u_therapeutic_areaztherapeutic arear4   rF  >   r  r   ry   ÚassignedrÍ  rÐ  úwork in progress>   rz  r•  r’  r–  úclosed completeúclosed/resolved)é   )é2   )rÄ  )r  >   ÚhiÚyoÚheyÚhiiÚsupÚheyaÚhiiiÚholaÚhelloÚhowdyÚmorningÚnamasteÚ	greetingsúhi thereúwhats upú	what's upúhello thereúgood eveningúgood morningúgood afternoon>	   ÚtyÚthxÚcoolÚniceÚgreatÚthanksÚawesomeÚthankyouú	thank you>   ÚbyeÚcyaÚlaterÚgoodbyeúsee yaúsee you)NÚ__doc__rU   r¯   rb   r   Úosr½   r   Úpathlibr   Úfastapir   r   r   r   Úfastapi.responsesr	   r
+   Ú__file__ÚparentÚBASE_DIRr   r   ÚCONFIGr·   rk  ÚpathÚ
+expanduserr­   r‹   Úappr?   rD   rO   rZ   rf   rˆ   r‘   r³   ÚOPEN_STATESr¸   rº   rÄ   rÈ   r×   rß   rã   ré   r$  r!  r  r*  r5  r<  r?  rG  rN  rZ  rq  ry  rÞ  rß  rà  r„  rÿ  r  r	  Úpostr  r  r   r  Ú__name__ÚuvicornÚintÚenvironr%  Úrunrš   r   r   Ú<module>rj     s  ðñó Û Û 	Û Û 	Û 	Ý Ý ç 6Ó 6ß 8á‹>× Ñ €Ø˜Õ&€õñ 
+‹€Ø
+‰
+Ð%Ð'AÓB€Ù—‘×#Ñ# F§J¡J¨À
+Ó$NÓOÓP€	ð 	I˜r 8¨T°;ÀÀgÈqÐQ€á
+Ð.Ô/€ð 
+Ò,ØÒ]Ø˜UÐ#ØÒ
+2ØÒFØÒIØÒRØ
+ÒJØØÒ6ØÒ
+=ØÒdØ	ˆO˜UÐ#ð€õ"
+õõõ%õQõ>õò* b€Úe€
+õõõ"÷
+B÷ õ0*õð ˆWØÐ*Ø=Ø
+Ø
+ØˆWð
+
+€	ð 	ˆ%u˜d E¨4°¸¸eÀTÈ5Øˆ%u˜d E¨4°¸¸eÀTÈ5ð€õ÷*÷Zõ"õõõõ&õ"iõXò0
+€	ò 
+^€Ú>€õ
+õhð\ ‡ˆ˜\€Ó*ñ@ó +ð@ð ‡ˆÓñó ðð ‡ˆ)ÓÙ$(¨£Iö Ló ðLð ‡ˆ.ÓñEó ðEð( ‡ˆ'Óô=ó ð=ð]€
+ð@	 ˆzÔÛÙˆrz‰z~‰~˜f fÓ-Ó.€DØ‡K‚K˜+¨D×1ñ r   
