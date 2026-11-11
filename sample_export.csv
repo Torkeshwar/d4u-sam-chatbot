@@ -1,0 +1,7 @@
+Number,Short description,Priority,State,Assigned to,Assignment group,Opened,Category
+SINC0492904,RR cycle status overwrite issue,1 - Critical,In Progress,Akash Shukla,RD_DATA4YOU_L2_COGNIZANT,2026-11-01 10:00:00,Software
+SINC0495080,RM rename RR link broken,3 - Moderate,New,,RD_DATA4YOU_L2_COGNIZANT,2026-11-03 09:30:00,Software
+SINC0495719,Task complete not firing,2 - High,In Progress,Priya Nair,RD_DATA4YOU_L2_COGNIZANT,2026-11-04 14:15:00,Software
+SINC0498954,Asset deactivation performance,2 - High,On Hold,Akash Shukla,RD_DATA4YOU_L2_COGNIZANT,2026-11-06 08:45:00,Performance
+SINC0491001,EDC data point mismatch,4 - Low,Resolved,Ravi Kumar,RD_DATA4YOU_L2_COGNIZANT,2026-10-28 11:00:00,Data
+SINC0490222,Login timeout on prod,1 - Critical,Closed,Priya Nair,RD_DATA4YOU_L2_COGNIZANT,2026-10-20 16:20:00,Software
